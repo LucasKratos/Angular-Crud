@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "frutilla",
+      "category": "Kitchen",
+      "freshness": "Second Hand",
+      "price": 100,
+      "comment": "fresh",
+      "date": "2022-09-12T03:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "manzana",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 150,
+      "comment": "refresh",
+      "date": "2022-08-23T03:00:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
